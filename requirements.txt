@@ -1,0 +1,13 @@
+torch
+torchvision
+efficientnet-pytorch
+pydicom
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+timm
+albumentations
+jupyter
